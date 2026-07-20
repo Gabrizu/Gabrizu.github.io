@@ -1,0 +1,95 @@
+body{
+    background:#050505;
+    color:rgb(126, 30, 30);
+    font-family:"Roboto Slab", serif;
+}
+.card{
+    background:#2f2f2f;
+    border:none;
+}
+
+.nav-link:hover{
+    color:#b68e39 !important;
+}
+
+.btn-success{
+    background:#b6753f;
+    border:none;
+}
+
+.btn-success:hover{
+    background:#b97d23;
+}
+body{
+    background-color: #9b5a5aa8;     
+    color: white;                  
+    font-family: "Roboto Slab", serif; 
+    margin: 0;                    
+    padding: 0;                   
+}
+h1{
+    color:#ffffff;
+}
+
+h2{
+    color:#fcfcfc;
+}
+
+p{
+    font-size:20px;
+    line-height:1.8;
+}
+.nav-link:hover{
+    color:#d7591e !important;
+}
+
+.btn-success{
+    background:#d7621e;
+    border:none;
+}
+
+.btn-success:hover{
+    background:#b85818;
+}
+header{
+    background-color: #0f0d0c;
+    padding: 20px;
+}
+.imagen-derecha{
+    flex: 1;
+    max-width: 30%;           
+    height: auto;             
+    border-radius: 8px;
+} 
+.footer-section{
+    font-size: large;
+    color: rgb(252, 252, 255);
+    background-color: rgb(46, 40, 40);
+    padding: 40px;}  
+.bienvenido{
+    color: rgb(255, 220, 140);
+    font-family: "Roboto Slab", serif;
+    background-color: rgb(123, 108, 108);
+    margin: 2%;
+    text-align: center;
+
+}
+.texto{
+    color: rgb(255, 220, 140);
+    text-align: center;
+    margin: 2%;
+    font-family: "Roboto Slab", serif;
+    background-color: rgb(123, 108, 108);
+}
+.contenedor-imagen {
+    display: FLEX;
+    justify-content: center; 
+    align-items: center;     
+    width: 40%;             
+    margin-top: 40px;       
+}
+.contenedor-imagen img{
+    max-width: 50%;         
+    height: auto;           
+    border-radius: 15px;     
+}
